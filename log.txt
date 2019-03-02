@@ -1,0 +1,10 @@
+Tuesday 26th February 2019
+ - Open image
+ - Open image in grayscale
+ - GaussianBlur
+ - Sobel
+ - Draw a line
+
+Friday 1st March 2019
+ - Test GaussianBlur and Sobel with 2 more images
+ - Finished
