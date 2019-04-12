@@ -1,0 +1,6 @@
+1. get pixelx,y
+2. get sum of filter
+3. use model to predict
+4. if detect edge, 
+    4.1 draw a line from that point to max y
+    4.2 skip to the next y
